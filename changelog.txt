@@ -1,0 +1,9 @@
+== Changelog ==
+
+= 2.0.0 - 30 Jan 2020 =
+
+* Bug fixed, Dashboard Modify
+
+= 1.0.0 - 18 May 2019 =
+
+* Initial release
